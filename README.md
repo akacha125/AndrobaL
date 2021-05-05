@@ -2,9 +2,6 @@
 <h3 align="center">Un développeur passioné de France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=androbal&label=Profile%20views&color=0e75b6&style=flat" alt="androbal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=androbal" alt="androbal" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/androbalq_q" target="blank"><img src="https://img.shields.io/twitter/follow/androbalq_q?logo=twitter&style=for-the-badge" alt="androbalq_q" /></a> </p>
 
 - 🔭 I’m currently working on [LyraMC](https://github.com/LyraMC)
