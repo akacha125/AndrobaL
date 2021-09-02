@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=androbal&label=Profile%20views&color=0e75b6&style=flat" alt="androbal" /> </p> </p>
 
-- 🔭 I’m currently working on [LyraMC](https://github.com/LyraMC)
+- 🔭 Je travail actuellement avec [LyraMC](https://github.com/LyraMC)
 
 
 <h3 align="left">Languages and Tools:</h3>
