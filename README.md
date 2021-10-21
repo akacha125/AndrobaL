@@ -1,6 +1,6 @@
 [![Les Stats GitHub de AndrobaL](https://github-readme-stats.vercel.app/api?username=androbal&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
 
-h1 align="center">Salut 👋, Je suis AndrobaL</h1>
+<h1 align="center">Salut 👋, Je suis AndrobaL</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=androbal&label=Profile%20views&color=0e75b6&style=flat" alt="androbal" /> </p> </p>
 
