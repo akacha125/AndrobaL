@@ -1,6 +1,9 @@
 [![Les Stats GitHub de AndrobaL](https://github-readme-stats.vercel.app/api?username=androbal&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true")](https://github.com/AndrobaL?tab=repositories)
 
-<h1 align="center">Salut 👋, Je suis AndrobaL</h1>
+<h1 align="left">🔭 About me</h1>
+<span align="center">A passionate software and website developer. I would be happy to offer my services to meet the needs of your projects. My experience has led me to evolve in different professional environments in order to offer an optimized and quality code. I am continually learning new languages ​​and technologies. I am versatile and can adapt and learn new things according to your needs.</span>
+
+Working on Meow & LyraMC
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=androbal&label=Profile%20views&color=0e75b6&style=flat" alt="androbal" /> </p> </p>
 
