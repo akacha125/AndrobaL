@@ -8,7 +8,7 @@
 Working on projects:
 - 🔭  [LyraMC](https://github.com/LyraMC) a minecraft mini-games server  
 - 🐯  [Meow](https://meow-anticheat.com/fr) a minecraft anticheat
-- ⤴️  [Wildya](https://wildya/fr) a minecraft pvp server
+- ⤴️  [Wildya](https://wildya.fr) a minecraft pvp server
 
 
 <h3 align="left">Languages and Tools:</h3>
