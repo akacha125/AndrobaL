@@ -17,3 +17,5 @@ Working on projects:
 </p>
 
 [![Les Stats GitHub de AndrobaL](https://github-readme-stats.vercel.app/api?username=androbal&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true")](https://github.com/AndrobaL?tab=repositories)
+
+https://github-readme-stats.vercel.app/api/wakatime?username=Androbal&layout=compact&theme=dracula
