@@ -28,4 +28,11 @@ Working on projects:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"> </a>
 </p>
 
+<h3 align="left">Learning</h3>
+
+<p align="left">
+  <a href="https://www.rust-lang.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
+  
+</p>
+
 [![Les Stats Watatime de AndrobaL](https://github-readme-stats.vercel.app/api/wakatime?username=Androbal&layout=compact&theme=dracula)
