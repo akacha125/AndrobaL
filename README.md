@@ -1,5 +1,5 @@
 <h1 align="left">🔭 About me</h1>
-<div style="text-align: center;">A passionate software/website developer. I would be happy to offer my services to meet the needs of your projects. My experience has led me to evolve in different professional environments in order to offer an optimized and quality code. I am continually learning new languages ​​and technologies. </div>
+<div style="text-align: center;">A passionate fullstack/devops developer. I would be happy to offer my services to meet the needs of your projects. My experience has led me to evolve in different professional environments in order to offer an optimized and quality code. I am continually learning new languages ​​and technologies. </div>
 
 <br>
 
