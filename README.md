@@ -1,6 +1,7 @@
 <h1 align="left">🔭 About me</h1>
 <div style="text-align: center;">A passionate fullstack/devops developer. I would be happy to offer my services to meet the needs of your projects. My experience has led me to evolve in different professional environments in order to offer an optimized and quality code. I am continually learning new languages ​​and technologies. </div>
 <br>
+
 Working on projects:
 - 🔭  [LyraMC](https://github.com/LyraMC) a minecraft mini-games server  
 - 🐯  [Meow](https://discord.gg/3bA5Pg6J2W) a minecraft anticheat
