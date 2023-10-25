@@ -1,5 +1,24 @@
 <h1 align="left">🔭 About me</h1>
-<div style="text-align: center;">A passionate fullstack/devops developer. I would be happy to offer my services to meet the needs of your projects. My experience has led me to evolve in different professional environments in order to offer an optimized and quality code. I am continually learning new languages ​​and technologies. </div>
+<div style="text-align: center;">
+  <span>
+💼 I'm a passionate young developer, as versatile as I am specialized. I have accumulated 4 years of experience in front-end development and over 6 years in back-end development. My know-how extends to all types of projects from simple websites to scalable projects capable of supporting huge traffics.
+</span><br>
+<span>
+📊 Project management is one of my core skills, and I've been able to contribute to projects of all sizes, from personal projects to professional projects of international scope. I've also managed small teams to help them complete projects without hassle.
+</span><br>
+<span>
+💻 In general, my code is well documented, the names are well chosen and it scrupulously respects the conventions of the different languages I use. Clean code is my top priority.
+</span><br>
+<span>
+🚀 I always make sure to simplify and optimize my code to reduce complexity, improve performance and make it easier to understand for people who have to reread it.
+</span><br>
+<span>
+🤝 Team collaboration is an essential part of my background. I have solid experience in teamwork, with a good understanding of the constraints involved.
+</span><br>
+<span>
+📚 I'm constantly looking to develop myself further, the quality of my code and logic are regularly assessed and I strive to stay up to date with new technologies in many areas.
+</span>
+</div>
 <br>
 
 Working on projects:
@@ -62,7 +81,7 @@ Bash                     0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/10/2023 15:19:17 UTC
+ Last Updated on 25/10/2023 15:15:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Les Stats Watatime de AndrobaL](https://github-readme-stats.vercel.app/api/wakatime?username=Androbal&layout=compact)]-->
