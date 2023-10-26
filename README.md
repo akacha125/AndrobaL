@@ -44,7 +44,7 @@ Working on projects:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"> </a>
 </p>
 
-<h3 align="left">Learning</h3>
+<h3 align="left">To Learn</h3>
 
 <p align="left">
   <a href="https://www.rust-lang.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
