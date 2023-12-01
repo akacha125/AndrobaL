@@ -55,8 +55,28 @@ Working on projects:
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-459.4%20thousand%20lines%20of%20code-blue)
 
+📅 **I'm Most Productive on Tuesday** 
 
- Last Updated on 01/12/2023 00:05:47 UTC
+```text
+Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Tuesday                  68 commits          ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+Wednesday                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Thursday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Friday                   52 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 01/12/2023 00:06:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Les Stats Watatime de AndrobaL](https://github-readme-stats.vercel.app/api/wakatime?username=Androbal&layout=compact)]-->
