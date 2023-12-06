@@ -53,6 +53,8 @@ Working on projects:
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2057%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-459.4%20thousand%20lines%20of%20code-blue)
 
 📅 **I'm Most Productive on Tuesday** 
@@ -76,7 +78,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/12/2023 23:03:48 UTC
+ Last Updated on 06/12/2023 23:04:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Les Stats Watatime de AndrobaL](https://github-readme-stats.vercel.app/api/wakatime?username=Androbal&layout=compact)]-->
