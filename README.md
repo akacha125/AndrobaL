@@ -53,7 +53,7 @@ Working on projects:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-459.4%20thousand%20lines%20of%20code-blue)
 
@@ -74,15 +74,15 @@ Sunday                   23 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 52 mins       ███████████████████░░░░░░   77.64 % 
-Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Python                   7 hrs 14 mins       █████████████████░░░░░░░░   69.66 % 
+Docker                   1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 
 
- Last Updated on 19/12/2023 23:00:41 UTC
+ Last Updated on 19/12/2023 23:01:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Les Stats Watatime de AndrobaL](https://github-readme-stats.vercel.app/api/wakatime?username=Androbal&layout=compact)]-->
