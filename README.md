@@ -74,15 +74,11 @@ Sunday                   23 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 12 mins       ████████████████░░░░░░░░░   63.38 % 
-Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Docker                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/12/2023 23:00:26 UTC
+ Last Updated on 28/12/2023 23:01:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Les Stats Watatime de AndrobaL](https://github-readme-stats.vercel.app/api/wakatime?username=Androbal&layout=compact)]-->
