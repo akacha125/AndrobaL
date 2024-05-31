@@ -55,18 +55,18 @@ Working on projects:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-456.6%20thousand%20lines%20of%20code-blue)
 
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  1 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   2 commits           █████████████████░░░░░░░░   66.67 % 
+Monday                   15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Tuesday                  39 commits          █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Wednesday                37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Thursday                 43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Friday                   52 commits          ███████░░░░░░░░░░░░░░░░░░   26.13 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 ```
 
 
@@ -78,7 +78,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/05/2024 15:47:40 UTC
+ Last Updated on 31/05/2024 15:48:42 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Les Stats Watatime de AndrobaL](https://github-readme-stats.vercel.app/api/wakatime?username=Androbal&layout=compact)]-->
