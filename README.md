@@ -53,7 +53,7 @@ Working on projects:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-456.6%20thousand%20lines%20of%20code-blue)
 
@@ -74,11 +74,11 @@ Sunday                   13 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/07/2024 22:00:27 UTC
+ Last Updated on 01/07/2024 22:01:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![Les Stats Watatime de AndrobaL](https://github-readme-stats.vercel.app/api/wakatime?username=Androbal&layout=compact)]-->
